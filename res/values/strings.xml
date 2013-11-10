@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Iban Language On The Go</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Iban Language On The Go</string>
+
+ 
+	    <string name="select">Please select category</string>
+	    	    <string name="select2">Choose an item</string>
+ <string name="button_label">Submit</string>
+
+    <string-array name="country_array">
+       <item>Iban to Malay</item>
+        <item>Malay to Iban</item>
+          <item>English to Iban</item>
+        <item>Sarawak local fruit</item>
+        <item>Sarawak delicacy</item>
+        <item>Sarawak best Destination</item>
+        <item>Sarawak Ethnics</item>
+           <item>Simple conversation in Iban</item>
+      
+    </string-array>
+
+</resources>
