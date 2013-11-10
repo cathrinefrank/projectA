@@ -31,7 +31,7 @@ public class ViewAll extends Activity {
 		ListView listView = (ListView)findViewById(R.id.listView1);
 		//importDatabase();
 		db = new IbanAdapter(this);
-		//final ListView listview = (ListView) findViewById(R.id.listview);
+		// test final ListView listview = (ListView) findViewById(R.id.listview);
 	  
 		  list1 = new ArrayList<String>();
 		  list2 = new ArrayList<String>();
