@@ -63,6 +63,7 @@ public class ViewAll extends Activity {
 	}
 	private void showAll2(String table) {
 		Log.i("hello", "fafafa");
+//hello
 		db.open();
 		Cursor c = db.getAll(table);
 		c.getCount();
